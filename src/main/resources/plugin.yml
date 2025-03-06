@@ -1,0 +1,8 @@
+name: CF_ReligionPlugin
+version: '1.0'
+main: PolitGame.TheFanky.CF_ReligionPlugin
+api-version: '1.21'
+
+commands:
+  religion:
+    aliases: [rel, r, relig]
