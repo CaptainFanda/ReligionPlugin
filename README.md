@@ -23,3 +23,5 @@ ReligionPlugin.setReligion - Даёт доступ к команде /religion s
 # Плейсхолдеры
 
 %religions_religion% - религия Игрока
+
+# Плагин делал - CaptainFanky 7 часов подряд
