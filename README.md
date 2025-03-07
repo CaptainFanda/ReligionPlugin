@@ -10,8 +10,8 @@ religions.yml - все Религии
 # Команды
 
 /religion - Посмотреть свою религию
-/religion clear [player] - Очистить религию игрока (Доступно с прав ReligionPlugin.clear или ReligionPlugin.*)
-/religion set [player] [religion] - установить религию игроку (Доступно с прав ReligionPlugin.setReligion или ReligionPlugin.*)
+/religion clear [player] - Очистить религию игрока (Доступно с прав ReligionPlugin.clear или ReligionPlugin.** )
+/religion set [player] [religion] - установить религию игроку (Доступно с прав ReligionPlugin.setReligion или ReligionPlugin.** )
 /religion buy [religion] - купить религию за ресурсы
 
 # Права
