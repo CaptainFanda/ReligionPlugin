@@ -1,0 +1,6 @@
+PolitGame\TheFanky\ReligionExpansion.class
+PolitGame\TheFanky\CF_ReligionPlugin.class
+PolitGame\TheFanky\ConfigData.class
+PolitGame\TheFanky\listener\PlayerJoinListener.class
+PolitGame\TheFanky\service\ReligionService.class
+PolitGame\TheFanky\commands\ReligionCommand.class
